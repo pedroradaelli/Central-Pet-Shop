@@ -2,13 +2,17 @@
 
 Aplicação de console em C# para registrar consultas de um pet shop.
 
+
   Funcionalidades
+  
   
 Registrar consulta (dono, pet, raça e motivo)
 1. Ver médicos disponíveis
 2. Ver donos registrados
 3. Ver pets registrados
 4. Ver consultas registradas
+
+
    
    Estrutura
    
