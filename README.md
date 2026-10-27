@@ -21,7 +21,7 @@ Program.cs: menu e fluxo principal
 Dono.cs, Pet.cs, Medico.cs: classes com suas listas
 
 Consulta.cs: junta um Dono, um Pet e o motivo da consulta
-Como executar
+
 
 Requer .NET 6+.
 
